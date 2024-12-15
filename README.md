@@ -7,5 +7,6 @@
 ![Image alt](https://github.com/NikPuskov/Grub/blob/main/grub3.jpg)
 
 Переименовываем VG в LVM
+
 ![Image alt](https://github.com/NikPuskov/Grub/blob/main/grub4.jpg)
 ![Image alt](https://github.com/NikPuskov/Grub/blob/main/grub5.jpg)
