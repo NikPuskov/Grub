@@ -9,4 +9,7 @@
 Переименовываем VG в LVM
 
 ![Image alt](https://github.com/NikPuskov/Grub/blob/main/grub4.jpg)
+
+В файле /boot/grub/grub.cfg изменяем название ubuntu-vg на ubuntu-otus и перезагружаемся
+
 ![Image alt](https://github.com/NikPuskov/Grub/blob/main/grub5.jpg)
